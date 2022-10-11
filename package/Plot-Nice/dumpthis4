@@ -1,0 +1,10 @@
+import pandas as pd
+import numpy as np
+
+#Test 1: Bar Chart
+#   1. Create Data
+x = ["a","b","c"]
+y = [23,94,34]
+#   2. Intatiate Class
+bar_plot = Nice_Plot(x=x,y=y, type = "bar")
+bar_plot.show(title = "Test Bar Plot")

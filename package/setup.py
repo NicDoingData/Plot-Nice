@@ -4,3 +4,13 @@
 
 # HINT: Here is an example of a setup.py file
 # https://packaging.python.org/tutorials/packaging-projects/
+
+from setuptools import setup
+
+setup(name = "Plot-Nice",
+      version = "1.0",
+      description = "Simple wrap for bar, line, and scatter plots"
+      packages = ["Plot-Nice"]
+      author = "Nicolas Kirsch"
+      author_email = "nic.kirsch@outlook.com"
+      zip_safe = False)
