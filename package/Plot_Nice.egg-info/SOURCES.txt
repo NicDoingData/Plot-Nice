@@ -1,0 +1,7 @@
+setup.py
+Plot-Nice/Plot_Nice.py
+Plot_Nice.egg-info/PKG-INFO
+Plot_Nice.egg-info/SOURCES.txt
+Plot_Nice.egg-info/dependency_links.txt
+Plot_Nice.egg-info/not-zip-safe
+Plot_Nice.egg-info/top_level.txt

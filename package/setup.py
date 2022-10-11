@@ -9,8 +9,8 @@ from setuptools import setup
 
 setup(name = "Plot-Nice",
       version = "1.0",
-      description = "Simple wrap for bar, line, and scatter plots"
-      packages = ["Plot-Nice"]
-      author = "Nicolas Kirsch"
-      author_email = "nic.kirsch@outlook.com"
+      description = "Simple wrap for bar, line, and scatter plots",
+      packages = ["Plot-Nice"],
+      author = "Nicolas Kirsch",
+      author_email = "nic.a.kirsch@gmail.com",
       zip_safe = False)
